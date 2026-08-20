@@ -1,5 +1,3 @@
-# week-1-data-cleaning-analysis
-# ============================================================
 # Week 1: Data Cleaning and Preliminary Analysis with R
 # Dataset: Titanic Passenger Dataset
 # ============================================================
